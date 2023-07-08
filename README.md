@@ -1,7 +1,9 @@
 # keylogger
 A tool to monitor keyboard activity of target system
 This is a keylogger tool designed to capture keystrokes on a target device and send the logged content to an attacker's email address at a scheduled time. 
+
 Features
+
 1.)Stealthy Keystroke Logging: The keylogger operates silently in the background, capturing all keystrokes made on the target device without the user's knowledge.
 
 2.)Scheduled Email Sending: The logged keystrokes are periodically sent to an attacker's email address at predefined intervals, allowing remote monitoring of the captured data.
